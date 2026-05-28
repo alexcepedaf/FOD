@@ -1,0 +1,4 @@
+|NRO:        101|EDAD:         70|DNI:     -29812|APELLIDO:     Juarez|NOMBRE:       Pepe
+|NRO:        102|EDAD:         36|DNI:          0|APELLIDO:      Perez|NOMBRE:    Ignacio
+|NRO:        103|EDAD:         56|DNI:      12245|APELLIDO:   Martinez|NOMBRE:      Pablo
+|NRO:        104|EDAD:         34|DNI:      12334|APELLIDO:      Ortiz|NOMBRE:       Juan

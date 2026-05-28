@@ -1,0 +1,19 @@
+1001 189999.99 Samsung
+0 5 Pantalla AMOLED 6.5"
+Galaxy A52
+
+1002 154999.50 Motorola
+3 4 Triple cámara y gran batería
+Moto G30
+
+1003 74999.00 Xiaomi
+10 8 Buen rendimiento y diseño
+Redmi Note 8
+
+1004 99999.90 Samsung
+0 6 Pantalla de 6.4" y lector de huellas
+Galaxy A12
+
+1005 124999.00 Nokia
+5 5 Celular resistente a golpes
+Nokia XR20

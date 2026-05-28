@@ -1,0 +1,11 @@
+1001 199999.99 Samsung
+5 10 Pantalla AMOLED de 6.5"
+Galaxy A32
+
+1002 259999.50 Motorola
+3 5 Cámara triple y batería 5000mAh
+Moto G100
+
+1003 89999.00 Xiaomi
+12 8 Celular económico con buena batería
+Redmi 9A

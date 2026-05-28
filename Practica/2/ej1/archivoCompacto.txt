@@ -1,0 +1,3 @@
+Codigo: 1 Nombre:  Ana Comision total: 300.50
+Codigo: 2 Nombre:  Bruno  Comision total: 150.00
+Codigo: 3 Nombre:  Carla Comision total: 100.00

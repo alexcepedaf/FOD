@@ -1,0 +1,4 @@
+1 Jabon 50.0 200 20
+2 Detergente 120.5 150 30
+3 Esponja 30.0 100 15
+4 Limpiador 80.0 75 25

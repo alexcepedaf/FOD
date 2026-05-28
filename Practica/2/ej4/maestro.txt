@@ -1,0 +1,6 @@
+1 1500.50 20 5 Pizzas
+Pizza de muzzarella
+2 2300.00 15 10 Hamburguesas
+Caja de 4 hamburguesas
+3 800.75 8 15 Papas
+Bolsa de papas fritas 1kg

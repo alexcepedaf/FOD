@@ -1,0 +1,6 @@
+1 100.50 Ana
+1 200.00 Ana
+2 150.00 Bruno 
+3 50.00 Carla
+3 30.00 Carla
+3 20.00 Carla

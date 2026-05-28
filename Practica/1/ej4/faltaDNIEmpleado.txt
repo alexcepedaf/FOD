@@ -1,0 +1,1 @@
+|NRO:        102|EDAD:         36|DNI:          0|APELLIDO:      Perez|NOMBRE:    Ignacio

@@ -1,0 +1,6 @@
+1001 189999.99  Samsung
+0 5  Pantalla AMOLED 6.5"
+Galaxy A52
+1004 99999.90  Samsung
+0 6  Pantalla de 6.4" y lector de huellas
+Galaxy A12
